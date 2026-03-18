@@ -13,7 +13,7 @@
   <a href="mailto:mminhajuddin@algomau.ca">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Miniman4520">
+  <a href="https://github.com/minhajuddinm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 ## 🔬 Research Projects
 
-### [HYPAR — Hyper-Personalized AR Packaging](https://github.com/Miniman4520/HYPAR-Gen-AI-Texture-XR)
+### [HYPAR — Hyper-Personalized AR Packaging](https://github.com/minhajuddinm/HYPAR-Gen-AI-Texture-XR)
 > *Submitted to Graphics Interface (GI) 2026*
 
 A web-based AR system that generates AI-powered textures in real time and overlays them onto physical product packaging using marker-based AR. Point a camera at a barcode-marked box and watch it transform with a personalized design.
@@ -89,19 +89,19 @@ A narrative-driven VR game built around unique mechanics and an original storyli
 
 ## 🛠 Other Projects
 
-### [Thunder Hacks 2026](https://github.com/Miniman4520/thunderhacks-2026)
+### [Thunder Hacks 2026](https://github.com/minhajuddinm/thunderhacks-2026)
 Full-stack hackathon platform I organized and built for Thunder Hacks — Algoma University's hackathon. Features a Supabase-backed announcements system, team dashboard, and admin panel.
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### [Chat-Sync-Python](https://github.com/Miniman4520/Chat-Sync-Python)
+### [Chat-Sync-Python](https://github.com/minhajuddinm/Chat-Sync-Python)
 Multithreaded client-server chat system implementing Cristian's algorithm for clock synchronization across distributed nodes.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### [Distributed Bug Tracker](https://github.com/Miniman4520/distributed-bug-tracker)
+### [Distributed Bug Tracker](https://github.com/minhajuddinm/distributed-bug-tracker)
 A distributed system for tracking bugs across nodes, built for COSC 4437 — Distributed Systems.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -138,8 +138,8 @@ A distributed system for tracking bugs across nodes, built for COSC 4437 — Dis
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miniman4520&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miniman4520&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhajuddinm&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajuddinm&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
