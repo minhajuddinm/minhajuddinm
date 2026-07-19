@@ -202,15 +202,6 @@ A distributed bug-tracking system across nodes, built for COSC 4437 (Distributed
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhajuddinm&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhajuddinm&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🏆 Leadership & Teaching
 
 - **Co-founder & President**, Algoma University Computer Science Society (ALCOMS)
